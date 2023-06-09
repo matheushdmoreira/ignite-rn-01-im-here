@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://docs.google.com/uc?id=16Cpw4LDGOHuJbjciGsxUOL4vpodNvHr8" width="100%" />
+  <img src="https://docs.google.com/uc?id=1pNPBhXGQ4_2JWOLff-XDH4NpJ749je2t" width="100%" />
 </p>
 
 # Im Here - Mobile App
